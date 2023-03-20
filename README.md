@@ -1,0 +1,2 @@
+# QuantumultXConf
+My QuantumultX Conf
